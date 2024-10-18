@@ -1,0 +1,1 @@
+# metodoscuantitativosparcial3
