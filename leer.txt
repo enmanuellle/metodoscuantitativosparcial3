@@ -1,0 +1,7 @@
+Se necesita instalar para usar la interfaz la librería de 
+
+pyqt5 
+
+utilizando el comando pip install pyqt5
+
+abriendo el archivo main tendrá acceso a todos los métodos y ejecutar todas las clases del programa hecho con programación orientada a objetos
